@@ -1,0 +1,12 @@
+.kg-item{
+    background-color: greenyellow;
+}
+
+.kg-span{
+    color: brown;
+    font-weight: 500;
+}
+
+.button{
+    float: inline-end;
+}

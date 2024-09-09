@@ -1,0 +1,17 @@
+
+
+input {
+    inline-size: 100%;
+}
+
+
+
+
+
+.Rvbotton{
+    min-inline-size: 80px;
+}
+
+.Rv-row{
+    margin: 10px 5px;
+}
